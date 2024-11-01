@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezliabi" alt="reezliabi" /></a> </p>
 
 - 🔭 I’m currently working on [Necrum.win](https://necrum.win/)
-- 🔭 My second project is [SMMBoost](https://smmboost.win/)
 
 - 🌱 I’m currently learning **IOS App Tweak's**
 
