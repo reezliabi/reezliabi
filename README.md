@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Reezli</h1>
-<h3 align="center">A passionate developer from Austria</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reezliabi&label=Profile%20views&color=0e75b6&style=flat" alt="reezliabi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezliabi" alt="reezliabi" /></a> </p>
 
 - 🔭 I’m currently working on [Necrum.win](https://necrum.win/)
-
-- 🌱 I’m currently learning **IOS App Tweak's**
 
 - 💬 Ask me about **C#,C++,Python,Java**
 
